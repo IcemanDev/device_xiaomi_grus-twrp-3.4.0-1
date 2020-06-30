@@ -10,7 +10,7 @@ mkdir your_twrp_folder
 
 cd ~/your_twrp_folder
 
-repo init -u https://github.com/LineageOS/android.git -b lineage-16.0
+repo init -u git://github.com/LineageOS/android.git -b lineage-16.0
 
 or
 
